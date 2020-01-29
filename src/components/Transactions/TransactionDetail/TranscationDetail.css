@@ -1,0 +1,20 @@
+.TransactionDetail {
+    display: flex;
+}
+
+.TransactionDetail .AccountNumberWrapper {
+    border-bottom: 1px solid #CCC;
+}
+
+.TransactionDetail .DetailWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.TransactionDetail .DetailWrapper .DetailElement {
+    width: 100%;
+}
+
+.TransactionDetail .DetailWrapper .DetailElement label {
+    margin-right: 8px;
+}

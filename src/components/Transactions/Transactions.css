@@ -1,0 +1,25 @@
+.Transactions {
+    display: flex;
+    flex-direction: column;
+    margin: 8px;
+    padding: 8px;
+}
+  
+.Transactions .TransactionHeader {
+    border-bottom: 1px solid #CCC;
+}
+
+.Transactions .TransactionGridWrapper {
+    display: flex;
+} 
+
+.Transactions .TransactionGridWrapper .SideNav {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+}
+
+.Transactions .TransactionGridWrapper .Grid {
+    flex: 3;
+}

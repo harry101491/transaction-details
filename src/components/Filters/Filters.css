@@ -1,0 +1,14 @@
+.Filters {
+    display: flex;
+    flex-direction: column;
+}
+
+.Filters .FilterWrapper {
+    background-color: #CCC;
+    margin: 8px;
+    padding: 8px;
+}
+
+.Filters .FilterWrapper .Filter {
+    margin: 8px;
+}
