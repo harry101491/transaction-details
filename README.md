@@ -1,6 +1,5 @@
-## Redux React Application
-The Learning of React with Udemy. This is React App where I am testing the cooooool features
+## Transaction Detail Application
+Task to create filiter, showing detail page on the given transaction data
 
-## Author
-* **Harshit Pareek** - Software Engineer (NYU Grad) :sunglasses: :computer:
-<br />Looking for new opportunites - contact via mail - hars.pareek@nyu.edu
+## Instructions to install
+npm install and npm start
