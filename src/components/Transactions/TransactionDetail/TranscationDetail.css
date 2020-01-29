@@ -1,5 +1,6 @@
 .TransactionDetail {
     display: flex;
+    flex-direction: column;
 }
 
 .TransactionDetail .AccountNumberWrapper {
